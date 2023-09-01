@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "datetime": "September 01, 2023 8:43:56 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione in, consequatur architecto aperiam laborum unde optio ducimus illo perferendis iusto illum voluptatem doloribus quis odio aliquam culpa, pariatur veniam alias? - Everything Working"
+    },
+    {
+      "id": 4,
+      "title": "Not Last Post - Edit Test",
+      "datetime": "September 01, 2023 8:43:40 PM",
+      "body": "Hello and welcome, Ladies and gentlemen good evening, you've seen and seeing is believing, your ears and your eyes will be bleeding, please check to see if your still breathing."
+    },
+    {
+      "id": 5,
+      "title": "Some more posts",
+      "datetime": "September 01, 2023 8:45:11 PM",
+      "body": "This is the one post that all posts will post as post oh my god is this all that is on my mind. Posts, Posts and some more posts. I don't understand what is going on you know."
+    },
+    {
+      "id": 6,
+      "title": "Menassie Ermias",
+      "datetime": "September 01, 2023 8:47:11 PM",
+      "body": "This guy is one person of what interest i dont know dont ask me i am rambling on this world is sad for some good for many the battle between happy people and sad ones continues to rage on."
+    }
+  ]
+}
