@@ -74,4 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Non Template Section
-run `npx json-server -p 3500 -w data/db.json` after opening terminal in the projects directory, to activate json-server backend.
+run `npx json-server -p 3500 -w data/db.json` after opening terminal in the project's directory, to activate json-server backend.
